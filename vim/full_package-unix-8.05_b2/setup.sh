@@ -1,4 +1,5 @@
 mkdir ~/.vim
+cp .vimrc ~/.vimrc
 cp -R ./toolkit ~/.vim
 cp -R ./vimfiles/* ~/.vim/
 cp ./.vimrc_ex ~/
